@@ -6,9 +6,9 @@ class Matteo extends Component {
     return (
       <div className="Matteo">
 
-          <h1>PlayerUnknown's Battlegrounds (PUBG)</h1>
+          <h1>Counter-Strike: Source</h1>
 
-          
+
 
       </div>
     );
