@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './Esteban/Esteban.css';
+//import App from './App';
 import registerServiceWorker from './registerServiceWorker';
-
-ReactDOM.render(<App />, document.getElementById('root'));
+import Esteban from './Esteban/Esteban.jsx'
+ReactDOM.render(<Esteban />, document.getElementById('root'));
 registerServiceWorker();
